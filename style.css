@@ -1,0 +1,18 @@
+/*
+Theme Name: Sharpside
+Theme URI: https://sharpsidebet.com
+Author: Sharpside
+Author URI: https://sharpsidebet.com
+Description: Lean, SEO-first custom theme for Sharpside — a sports betting analytics brand. Terminal-inspired design, structured data, fast Core Web Vitals, full blog + landing templates. Pairs with Rank Math for meta and sitemaps.
+Version: 1.0.0
+Requires at least: 6.2
+Tested up to: 6.6
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sharpside
+Tags: custom-menu, featured-images, blog, translation-ready, custom-logo
+*/
+
+/* Real styles live in assets/css/main.css (enqueued in functions.php).
+   This file exists for the WordPress theme header + as a fallback. */
